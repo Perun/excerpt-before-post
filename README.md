@@ -1,2 +1,3 @@
-# excerpt-before-post
-Custom Excerpt befor the Post in the single view of the blog post
+# Excerpt before the post
+
+If there is a manual excerpt of the article, it should be output before the actual content.
