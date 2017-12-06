@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Excerpt ausgeben
+Plugin Name: Excerpt as subtitle before the post
 Plugin URI: http://www.perun.net
 Description: If there is a manual excerpt of the article, it should be output before the actual content..
 Version: 0.1
